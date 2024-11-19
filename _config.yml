@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Academic Pages of Jinxin Xiao "
 title_separator          : "-"
-name                     : &name "Jinxin Xiao"
+name                     : &name "Jinxin Xiao 肖金鑫"
 description              : &description "personal description"
 url                      : https://jinxinxiao.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
