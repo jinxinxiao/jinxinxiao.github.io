@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a young faculty member at [School of Enology and Horticulture](https://wine.nxu.edu.cn/), [Ningxia University](https://www.nxu.edu.cn/).
+I am a lecturer at the [School of Enology and Horticulture](https://wine.nxu.edu.cn/), [Ningxia University](https://www.nxu.edu.cn/).
 
 # Education
 2016-2023, [College of Horticulture](https://yyxy.nwafu.edu.cn/), [Northwest A&F University](https://www.nwsuaf.edu.cn/), Facility horticulture, Ph.D   
