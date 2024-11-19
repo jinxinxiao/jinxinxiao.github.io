@@ -7,13 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am a young faculty member at [School of Enology and Horticulture](https://wine.nxu.edu.cn/), [Ningxia University](https://www.nxu.edu.cn/).
+
+#### Education
+2016-2023, [College of Horticulture](https://yyxy.nwafu.edu.cn/), [Northwest A&F University](https://www.nwsuaf.edu.cn/), Facility horticulture, Ph.D
+2012-2016, [College of Horticulture](https://yyxy.nwafu.edu.cn/), [Northwest A&F University](https://www.nwsuaf.edu.cn/), Facility Agriculture Science and Engineering, Bachelor
+
+#### Research Interests
+The simulation and energy-saving design of greenhouse thermal environments
 
 
-I am a young faculty member at [School of Enology and Horticulture](https://wine.nxu.edu.cn/), [Ningxia University](https://www.nxu.edu.cn/), where I am primarily engaged in research on the simulation and energy-saving design of greenhouse thermal environments.
+#### Publicaton
+Jx Xiao, Q,Wang, Xy,Wang, Yx,Hu, Yf,Cao,Jm,Li* (2023). An earth-air heat exchanger integrated with a greenhouse in cold-winter and hot-summer regions of northern China: Modeling and experimental analysis. [Paper](https://www.sciencedirect.com/science/article/pii/S1359431123009687?via%3Dihub)
 
-I graduated from [College of Horticulture](https://yyxy.nwafu.edu.cn/), [Northwest A&F University](https://www.nwsuaf.edu.cn/), in July 2016 with a Bachelor's Degree in Agronomy, majoring in Facility Agriculture Science and Engineering. I then completed my Ph.D. degree in agronomy, specializing in facility horticulture, at [College of Horticulture](https://yyxy.nwafu.edu.cn/), [Northwest A&F University](https://www.nwsuaf.edu.cn/), in December 2023. In July 2024, I joined [School of Enology and Horticulture](https://wine.nxu.edu.cn/), [Ningxia University](https://www.nxu.edu.cn/).
-
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+#### Email
+2024051xjx[at]nxu.edu.cn
