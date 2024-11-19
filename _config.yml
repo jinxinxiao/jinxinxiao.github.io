@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "jinxinxiao.png"
-  name             : "Jinxin Xiao"
+  name             : "Jinxin Xiao (肖金鑫)"
   pronouns         : # example: "she/her"  
-  bio              : "肖金鑫"
+  bio              : #"肖金鑫"
   location         : "Ningxia, China"
   employer         : "Ningxia University"
   uri              : # URL
